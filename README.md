@@ -29,14 +29,3 @@ Navegue até o diretório do projeto:
 
 cd nome-do-repositorio
 
-Explore as diferentes seções do projeto e escolha a atividade que deseja realizar.
-
-Abra o arquivo correspondente à atividade escolhida em seu editor de código.
-
-Leia as instruções da atividade e implemente a solução em C.
-
-Compile o código fonte usando o compilador C em sua máquina.
-
-Execute o programa resultante e verifique se ele produz os resultados esperados.
-
-Repita os passos 3 a 7 para outras atividades ou exercícios do repositório.
