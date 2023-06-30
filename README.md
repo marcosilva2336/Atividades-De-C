@@ -22,13 +22,11 @@ Para executar as atividades e exercícios neste repositório, você precisará t
 # Como usar este repositório
 
 Clone o repositório para sua máquina local usando o comando Git:
-bash
-Copy code
+
 git clone https://github.com/seu-usuario/nome-do-repositorio.git
 
 Navegue até o diretório do projeto:
-arduino
-Copy code
+
 cd nome-do-repositorio
 
 Explore as diferentes seções do projeto e escolha a atividade que deseja realizar.
